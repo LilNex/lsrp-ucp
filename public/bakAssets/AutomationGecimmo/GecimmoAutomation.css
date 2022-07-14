@@ -1,0 +1,27 @@
+﻿rect.trigger {
+    fill: #8e8e8e;
+}
+
+rect.email {
+    fill: #05865b;
+}
+rect.attente {
+    fill: orange;
+    color: white;
+}
+rect.sms {
+    fill: #b76e00;
+    color: white;
+}
+rect.executionUnique {
+    fill: red;
+    color: white;
+}
+rect.createRappelAction {
+    fill: blueviolet;
+    color: white;
+}
+rect.actionRejeter {
+    fill: darkred;
+    color: white;
+}
